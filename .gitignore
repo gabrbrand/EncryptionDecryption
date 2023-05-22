@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption (Kotlin)/task/build/
+/Topics/CharSequence/Where is the palindrome/out/
+/Topics/CharSequence/Where is the palindrome/out/production/classes/
